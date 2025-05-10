@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">DictionaryApp</string>
+    <string name="facebook_app_id">690711373416222</string>
+    <string name="fb_login_protocol_scheme">fb690711373416222</string>
+    <string name="facebook_client_token">d6044308cb4bc8906d6332fe72d82452</string>
+</resources>
